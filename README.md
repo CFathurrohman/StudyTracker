@@ -122,3 +122,7 @@ The app renders the screenshot from its own frames and then quits. Screenshot ru
 ## Credits
 
 The [Inter](https://rsms.me/inter/) font is bundled under the SIL Open Font License (`assets/fonts/Inter-LICENSE.txt`).
+
+## License
+
+MIT, see [LICENSE](LICENSE).
